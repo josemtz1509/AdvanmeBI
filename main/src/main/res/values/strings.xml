@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="graphic_client_attention">Gráfica de atención al cliente Abril 2018</string>
+    <string name="customer_asked">Clientes encuestados</string>
+    <string name="time_median">Tiempo promedio de estadia</string>
+    <string name="check_median">Ticket promedio</string>
+    <string name="result_title_week">Recomendaciones para la semana</string>
+</resources>
